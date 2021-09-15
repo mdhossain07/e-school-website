@@ -12,6 +12,16 @@ body {
   width: 200px;
 }
 
+.nav-link {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
 .highlight {
   padding: 0 15px;
   background-color: #21b573;
@@ -62,21 +72,27 @@ p {
 }
 
 .cat1,
-.cat2,
 .cat3,
 .cat4 {
-  background-color: #ebfdee;
+  background-color: #f7fff7;
   padding: 20px;
+  border-radius: 10px;
+}
+
+.cat2 {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 6px 10px 15px lightgray;
 }
 
 .pos {
   padding: 25px 0;
-  border: none;
   height: 210px;
   text-align: center;
 }
 
 h4 {
+  font-size: 21px;
   font-weight: bold;
 }
 
@@ -86,21 +102,22 @@ h5 {
 
 .card {
   border-radius: 20px;
-  border-width: thick;
-  border-color: thistle;
 }
 
 .card-img-top {
   border-radius: 10px;
   padding: 15px 15px;
 }
+
 .card-footer {
   border: none;
   background-color: white;
 }
+
 .card-footer img {
-  width: 20px !important;
+  width: 20px;
 }
+
 .card-footer p {
   font-weight: bold;
   font-size: 13px;
