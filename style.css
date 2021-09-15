@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.navigation {
+  padding-top: 20px;
+}
+
+.navigation img {
+  width: 200px;
+}
+
+.highlight {
+  padding: 0 15px;
+  background-color: #21b573;
+  border-radius: 50px;
+}
+
+.click {
+  background-color: #21b573;
+  color: white;
+  padding: 6px 20px;
+  text-align: center;
+  border-radius: 50px;
+  border: none;
+}
+
+.featured {
+  margin-top: 70px;
+  height: 400px;
+}
+
+.featured h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+
+p {
+  color: gray;
+}
+
+.ill img {
+  margin-left: 80px;
+  width: 500px;
+  height: 300px;
+}
+
+.offers img {
+  width: 60px;
+  padding-bottom: 20px;
+}
+
+.header {
+  background-color: rgb(235, 247, 237);
+}
+
+.container {
+  padding: 0 50px;
+  margin-bottom: 80px;
+}
+
+.cat1,
+.cat2,
+.cat3,
+.cat4 {
+  background-color: #ebfdee;
+  padding: 20px;
+}
+
+.pos {
+  padding: 25px 0;
+  border: none;
+  height: 210px;
+  text-align: center;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 20px;
+  border-width: thick;
+  border-color: thistle;
+}
+
+.card-img-top {
+  border-radius: 10px;
+  padding: 15px 15px;
+}
+.card-footer {
+  border: none;
+  background-color: white;
+}
+.card-footer img {
+  width: 20px !important;
+}
+.card-footer p {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.test img {
+  width: 100px;
+  margin-left: 120px;
+}
+.box p {
+  color: rgb(48, 47, 47);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+footer {
+  height: 320px;
+  background-color: rgb(33, 32, 43);
+  color: white;
+  padding: 50px;
+}
+
+footer li {
+  list-style: none;
+  font-size: 14px;
+  padding-top: 6px;
+}
+
+.copy {
+  font-size: 14px;
+  padding: 27px 0;
+  text-align: center;
+}
